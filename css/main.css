@@ -7,4 +7,17 @@ html {
 
 body {
   background-color: #79756f;
+  color: #fff;
+  margin: .3em;
+  text-align: center;
+}
+
+h1 {
+  padding: .5em;
+}
+
+.planets li {
+  display: inline-block;
+  background-color: #713837;
+
 }
