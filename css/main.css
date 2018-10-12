@@ -1,23 +1,31 @@
 html {
   box-sizing: border-box;
   background-color: #dbd6cf;
-  font-family: Georgia, sans-serif;
   line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
 }
 
 body {
   background-color: #79756f;
+  border: 3px solid #595652;
   color: #fff;
-  margin: .3em;
+  margin: 0;
   text-align: center;
 }
 
 h1 {
   padding: .5em;
+  font-family: Georgia, sans-serif;
 }
 
 .planets li {
   display: inline-block;
   background-color: #713837;
+  border: 1px solid #713837;
+  border-radius: 5px;
+  padding: .6em .5em .75em
 
 }
