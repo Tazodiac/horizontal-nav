@@ -27,6 +27,12 @@ h1 {
   background-color: #713837;
   border-radius: 5px;
   padding: .6em .5em .75em;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  text-decoration-color: #fff;
 }
 
   .planets li:hover {
