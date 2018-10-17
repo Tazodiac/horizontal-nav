@@ -24,21 +24,20 @@ h1 {
 
 .planets li {
   display: inline-block;
-  background-color: #713837;
   list-style-type: none;
   font-family: sans-serif;
-  border-radius: 5px;
 }
 
 .planets a {
-  display: block;
   text-decoration: none;
+  background-color: #713837;
   color: #fff;
   margin: .3em;
   padding: .6em .5em .75em;
+  border-radius: 5px;
 }
 
-.planets li:hover {
+.planets a:hover {
   background-color: #f33;
   text-decoration: none;
 }
