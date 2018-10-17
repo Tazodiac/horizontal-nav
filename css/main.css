@@ -14,7 +14,7 @@ body {
   color: #fff;
   margin: 0;
   text-align: center;
-  font-family: 'Bevan', sans-serif;
+  font-family: "Bevan", sans-serif;
 }
 
 h1 {
@@ -28,5 +28,4 @@ h1 {
   border: 1px solid #713837;
   border-radius: 5px;
   padding: .6em .5em .75em
-
 }
